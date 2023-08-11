@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Haboro Contrast Norm';
+    src: url('HaboroContrast-NorReg.eot');
+    src: url('HaboroContrast-NorReg.eot?#iefix') format('embedded-opentype'),
+        url('HaboroContrast-NorReg.woff2') format('woff2'),
+        url('HaboroContrast-NorReg.woff') format('woff'),
+        url('HaboroContrast-NorReg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
